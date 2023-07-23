@@ -1,0 +1,18 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rebeccapurple;
+}
+
+.title {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
